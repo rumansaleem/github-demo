@@ -10,9 +10,4 @@ description about the repository.
   
 [my git repo](https://github.com)
 
-1. hello
-2. ok
-3. see you
-4. bye
-
 ![alt text](https://placehold.it/200)
